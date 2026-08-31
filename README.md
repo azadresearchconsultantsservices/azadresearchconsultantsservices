@@ -1,6 +1,6 @@
 # Azad AI Automation Services
 
-**AI-Powered Business Automation to integrate, connect and automate your daily business workflows in one centralized dashboard.**
+**AI-Powered Automation to automate your daily multiple Business activities, integrate, and connect in one centralized workflow dashboard.**
 
 We help businesses connect their daily activities through AI-powered automation — reducing repetitive work, improving communication and making operations easier to manage.
 
@@ -15,13 +15,13 @@ We help businesses connect their daily activities through AI-powered automation 
 
 ## One Centralized Workflow
 
-Instead of managing business activities across emails, WhatsApp, files and separate systems, we help connect them into **one centralized workflow** with AI-assisted responses, actions and follow-ups based on business context.
+Instead of managing business multiple activities across emails, WhatsApp, files and separate systems, we help connect them into **one centralized workflow** with AI-assisted responses, actions and follow-ups based on business context.
 
 ## Real-World Experience
 
 **Market Research Automation**
 
-We have completed AI-powered automation work connecting the end-to-end market research workflow — from **client requirements → proposal & costing → operations → data collection → quality control → reporting → finance.**
+We have completed AI-powered automation work connecting the end-to-end market research workflow — from **client/vendor database Discovery → Outreach, Communication & Follow-ups → proposal & costing → operations → data collection → quality control → reporting → finance.**
 
 Our approach can be adapted to other businesses and industries.
 
