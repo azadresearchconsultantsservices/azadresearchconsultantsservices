@@ -1,8 +1,8 @@
 # Azad AI Automation Services
 
-**AI-Powered Automation to automate your daily multiple Business activities, integrate, and connect in one centralized workflow dashboard.**
+**AI-Powered Automation to connect, integrate, and automate your daily multiple business activities in one centralized dashboard.**
 
-We help businesses connect their daily activities through AI-powered automation — reducing repetitive work, improving communication and making operations easier to manage.
+We help businesses bring their multiple daily activities together, reduce repetitive work, improve coordination, and manage their business more efficiently through practical AI-powered automation.
 
 ## What We Automate
 
