@@ -9,7 +9,7 @@ We help businesses bring their multiple daily activities together, reduce repeti
 * Client & Vendor Discovery
 * Communication & Follow-ups
 * Proposals & Documentation
-* Project Planning & Execution
+* Workflow Planning & Execution
 * Data Collection & Processing
 * Operations & Quality Control
 * Reporting & Business Tracking
@@ -21,9 +21,11 @@ We connect different business activities, tools, and information so that work ca
 
 ## Real-World Experience
 
-**Market Research Automation**
+**Market Research Service Automation**
 
-Our own market research business involves managing the complete journey — from client and vendor discovery, communication and proposals to project execution, fieldwork, data collection, quality control, reporting, payments and finance.
+We have practical experience in building AI-powered automation for the market research industry, connecting multiple business activities from client and vendor discovery through communication, project execution, operations, data collection, quality control, reporting, and finance.
+
+This experience helps us understand how different business activities can be connected and automated — and the same approach can be adapted to businesses across different industries.
 
 We have built automation around this real-world business workflow and continue to improve it with practical experience.
 
